@@ -8,6 +8,7 @@ Requirements:
 
 Steps:
 ----------------
-1. Set up the database and make sure you have Connector/J
+1. Set up the database (in the sql folder) and make sure you have Connector/J
 2. Run ServerMain.java
 3. Run Login.java from ChitterChatClient
+ (default username and password is admin and admin123, respectively)
